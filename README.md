@@ -9,9 +9,10 @@ foundations for a U.S. healthcare organization.
 
 Selected delivery metrics:
 
-- 2.3M+ carrier records processed
-- 20+ production data feeds
+- 2,370,914 book-of-business rows processed across 21 successful files
+- 14+ carrier and data-partner feeds
 - 600K+ call and status events
 - 10+ systems integrated
+- 11 carrier-specific policy and commission procedures hardened
 
 The published page is a dependency-free static build hosted by GitHub Pages.
